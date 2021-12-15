@@ -8,7 +8,7 @@ Most people infected with the COVID-19 virus will experience mild to moderate re
 - Identify the maximum, minimum, median for the Confirmed, Deaths, Recovered, Active
 -  Compare between Deaths and Active
 -  How many the Total Corona Virus Active vs Recovered Recovered
--  Visualize the missingness issue in the dataset and heck missing values
+-  Visualize the missingness issue in the dataset and check missing values
 -  How many days, how many months, how many years in the dataset?
 -  How to predict active cases per month? 
    
