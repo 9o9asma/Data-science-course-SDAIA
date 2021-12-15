@@ -38,4 +38,4 @@ Simple linear regression is used to model the relationship between two continuou
 I will use Jupyter Notbbok, Programming Lanaguage, Libraries like Pandas,NumPy,Sklearn,Matplotlib,Tensorflow
 
 # Prepared by:
- Asma Jabbar ALshahrani
+ Asma Jabbar Alshahrani
